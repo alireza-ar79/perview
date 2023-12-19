@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "22658523576",
+    "project_id": "esp32cam-application",
+    "storage_bucket": "esp32cam-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22658523576:android:699264ba71181b94b26f4d",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZJOSrV8AK1T50b-BVO270EDpRIJJV8Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22658523576:android:fc3f924bc8d0d0eab26f4d",
+        "android_client_info": {
+          "package_name": "com.example.perview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZJOSrV8AK1T50b-BVO270EDpRIJJV8Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
